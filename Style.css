@@ -1,0 +1,176 @@
+.container{
+    height: 300px;
+    width: 100%;
+}
+.c{
+    height: 300px;
+    width: 350px;
+    margin-left: 450px;
+}
+.container2{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: -200px;
+
+}
+.container2 h1{
+    font-size: 70px;
+}
+
+.container2 button{
+    height: 70px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: white;
+    background-color: #B08EAD;
+}
+.container2 p{
+    font-size: 20px;
+}
+.container{
+    height: 300px;
+    width: 100%;
+}
+.c{
+    height: 600px;
+    width: 850px;
+    margin-left: 450px;
+}
+.container2{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: -200px;
+
+}
+.container2 h1{
+    font-size: 70px;
+}
+
+.container2 button{
+    height: 70px;
+    width: 200px;
+    margin-top: 50px;
+    background-color: #B08EAD;
+}
+.container2 p{
+    font-size: 20px;
+}
+.box img{
+    margin-top: 300px;
+    margin-left: 150px;
+}
+.secondbox{
+    width: 100%;
+    display: flex;
+}
+.box2{
+    margin-top: 300px;
+    margin-left: 100px;
+}
+
+.box2 h4{
+    color: #B08EAD;
+}
+.box2 h1{
+    font-size: 50px;
+}
+.box2 button{
+    height: 70px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: #B08EAD;
+    color: white;
+   
+}
+.thirdbox{
+    width: 100%;
+    display: flex;
+}
+.box3{
+    margin-top: 300px;
+    margin-left: 100px;
+}
+
+.box3 h4{
+    color: #B08EAD;
+}
+.box3 h1{
+    font-size: 50px;
+}
+.box3 button{
+  height: 70px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 5px;
+   background-color: #B08EAD ;
+   color: white;
+   
+}
+.thirdbox img{
+  margin-right: 150px;
+}
+.dabba {
+background-color: #F4EDF2;
+padding: 50px 20px;
+text-align: center;
+}
+
+.dabba h1 {
+font-size: 36px;
+color: #333;
+margin-bottom: 30px;
+}
+
+.dabba .item {
+display: inline-block;
+width: 300px;
+margin: 50px;
+text-align: center;
+background: #fff;
+padding: 20px;
+border-radius: 8px;
+}
+
+.dabba .item img {
+width: 100%;
+height: auto;
+border-radius: 8px;
+margin-bottom: 15px;
+}
+
+.dabba .item h2 {
+font-size: 18px;
+color: #555;
+margin: 10px 0;
+}
+
+.dabba .item h4 {
+font-size: 16px;
+color: #b08ead;
+font-weight: bold;
+}
+
+.navbar {
+background-color: #f4edf2;
+padding: 15px 20px;
+position: sticky;
+top: 0;
+}
+
+.navbar-container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 100%;
+margin: 0 auto;
+}
+
+.navbar-links {
+list-style: none;
+display: flex;
+gap: 40px;
+margin: 0;
+padding: 0;
+}
